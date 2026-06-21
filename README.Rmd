@@ -1,6 +1,6 @@
 ---
 title: "Orange Data Mining Project Portfolio"
-author: "Your Name"
+author: "Anirudh LG"
 date: "`r Sys.Date()`"
 output:
   github_document:
