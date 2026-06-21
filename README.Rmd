@@ -1,6 +1,6 @@
 ---
 title: "Orange Data Mining Project Portfolio"
-author: "Anirudh LG"
+author: Anirudh LG
 date: "`r Sys.Date()`"
 output:
   github_document:
@@ -315,7 +315,7 @@ dbscan_workflow.png
 
 # Author
 
-**Your Name**
+Anirudh LG
 
 Machine Learning and Data Mining Projects using Orange Data Mining.
 
